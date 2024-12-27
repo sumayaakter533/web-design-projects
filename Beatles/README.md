@@ -1,3 +1,3 @@
-# Netlify link of `Myfolio` project
+# Netlify link of `Beatles` project
 
-Link: [Myfolio](https://beatles210.netlify.app/)
+Link: [Beatles](https://beatles210.netlify.app/)
